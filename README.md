@@ -1,4 +1,4 @@
-# Shital-Analytics-Portfolio
+# About Me
 
 # Hi, I'm Shital Isankar 👋
 
