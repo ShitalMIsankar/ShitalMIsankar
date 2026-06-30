@@ -1,14 +1,12 @@
 # About Me
 
-# Hi, I'm Shital Isankar 👋
+# Hi, I'm Shital 👋
 
 ### Data Analyst | Power BI | SQL | Python | Excel
 
 Turning raw data into actionable business insights.
 
 📍 Pune, Maharashtra
-📧 shitalisankar@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/shital-8a098839b/
 
 ---
 
@@ -62,5 +60,3 @@ I'm a **Data Analyst** based in **Pune, Maharashtra**, with 6 months of hands-on
 
 If you're hiring a detail-oriented analyst who can own a problem from raw data to boardroom-ready insight — I'd love to chat.
 
-📧 shitalisankar@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/shital-8a098839b/
